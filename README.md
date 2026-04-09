@@ -12,7 +12,7 @@
 
 5.Logger is used in such a way that it insersts the dumpings into a single log file.
 
-6.OpenCV is used for automatic number plate tracking . ctrl+s to save image and ctrl+q to quash the pop up camera window.
+6.OpenCV is used for automatic number plate tracking . press"s" to save image and press"q" to quash the pop up camera window.
 
 7.While copying the codes , download haarcascade.xml file and provide a source path as mentioned in my code.
 Just replace my source path with yours in that specific region of code.
