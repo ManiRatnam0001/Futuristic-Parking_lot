@@ -1,0 +1,124 @@
+
+2026-04-09 10:05:49,215 __main__ INFO {'slot0': 0, 'slot1': 0, 'slot2': 0, 'slot3': 0, 'slot4': 0}
+2026-04-09 10:05:49,216 __main__ INFO {}
+2026-04-09 10:05:49,217 __main__ INFO {}
+2026-04-09 10:07:24,551 __main__ INFO {'slot0': 0, 'slot1': 0, 'slot2': 0, 'slot3': 0, 'slot4': 0}
+2026-04-09 10:07:24,553 __main__ INFO {}
+2026-04-09 10:07:24,553 __main__ INFO {}
+2026-04-09 10:09:53,864 __main__ INFO {'slot0': 0, 'slot1': 0, 'slot2': 0, 'slot3': 0, 'slot4': 0}
+2026-04-09 10:09:53,865 __main__ INFO {}
+2026-04-09 10:09:53,866 __main__ INFO {}
+2026-04-09 10:11:28,471 __main__ INFO {'slot0': 0, 'slot1': 0, 'slot2': 0, 'slot3': 0, 'slot4': 0}
+2026-04-09 10:11:28,472 __main__ INFO {}
+2026-04-09 10:11:28,473 __main__ INFO {}
+2026-04-09 10:13:42,823 __main__ INFO {'slot0': 0, 'slot1': 0, 'slot2': 0, 'slot3': 0, 'slot4': 0}
+2026-04-09 10:13:42,824 __main__ INFO {}
+2026-04-09 10:13:42,824 __main__ INFO {}
+2026-04-09 10:14:12,871 __main__ INFO {'slot0': 0, 'slot1': 0, 'slot2': 0, 'slot3': 0, 'slot4': 0}
+2026-04-09 10:14:12,872 __main__ INFO {}
+2026-04-09 10:14:12,872 __main__ INFO {}
+2026-04-09 10:14:37,767 __main__ INFO {'slot0': 0, 'slot1': 0, 'slot2': 0, 'slot3': 0, 'slot4': 0}
+2026-04-09 10:14:37,768 __main__ INFO {}
+2026-04-09 10:14:37,768 __main__ INFO {}
+2026-04-09 10:15:29,295 __main__ INFO {'slot0': 0, 'slot1': 0, 'slot2': 0, 'slot3': 0, 'slot4': 0}
+2026-04-09 10:15:29,296 __main__ INFO {}
+2026-04-09 10:15:29,296 __main__ INFO {}
+2026-04-09 10:25:30,102 __main__ INFO {'slot0': 0, 'slot1': 0, 'slot2': 0, 'slot3': 0, 'slot4': 0}
+2026-04-09 10:25:30,103 __main__ INFO {}
+2026-04-09 10:25:30,103 __main__ INFO {}
+2026-04-09 10:28:18,678 __main__ INFO {'slot0': 0, 'slot1': 0, 'slot2': 0, 'slot3': 0, 'slot4': 0}
+2026-04-09 10:28:18,679 __main__ INFO {}
+2026-04-09 10:28:18,679 __main__ INFO {}
+2026-04-09 10:30:16,398 __main__ INFO {'slot0': 0, 'slot1': 0, 'slot2': 0, 'slot3': 0, 'slot4': 0}
+2026-04-09 10:30:16,399 __main__ INFO {}
+2026-04-09 10:30:16,399 __main__ INFO {}
+2026-04-09 10:30:29,174 __main__ INFO slot2
+2026-04-09 10:30:29,174 __main__ INFO 1234
+2026-04-09 10:32:15,694 __main__ INFO {'slot0': 0, 'slot1': 0, 'slot2': 0, 'slot3': 0, 'slot4': 0}
+2026-04-09 10:32:15,695 __main__ INFO {}
+2026-04-09 10:32:15,695 __main__ INFO {}
+2026-04-09 10:32:24,710 __main__ INFO slot3
+2026-04-09 10:33:00,062 __main__ INFO {'slot0': 0, 'slot1': 0, 'slot2': 0, 'slot3': 0, 'slot4': 0}
+2026-04-09 10:33:00,063 __main__ INFO {}
+2026-04-09 10:33:00,063 __main__ INFO {}
+2026-04-09 10:33:12,722 __main__ INFO slot4
+2026-04-09 10:33:12,723 __main__ INFO 32434
+2026-04-09 10:34:21,861 __main__ INFO {'slot0': 0, 'slot1': 0, 'slot2': 0, 'slot3': 0, 'slot4': 0}
+2026-04-09 10:34:21,862 __main__ INFO {}
+2026-04-09 10:34:21,863 __main__ INFO {}
+2026-04-09 10:36:16,109 __main__ INFO {'slot0': 0, 'slot1': 0, 'slot2': 0, 'slot3': 0, 'slot4': 0}
+2026-04-09 10:36:16,110 __main__ INFO {}
+2026-04-09 10:36:16,111 __main__ INFO {}
+2026-04-09 10:36:27,373 __main__ INFO slot1
+2026-04-09 10:36:27,374 __main__ INFO 32443
+2026-04-09 10:36:27,374 __main__ INFO slot1
+2026-04-09 11:26:25,383 __main__ INFO {'slot0': 0, 'slot1': 0, 'slot2': 0, 'slot3': 0, 'slot4': 0}
+2026-04-09 11:26:25,384 __main__ INFO {}
+2026-04-09 11:26:25,384 __main__ INFO {}
+2026-04-09 11:30:37,999 __main__ INFO {'slot0': 0, 'slot1': 0, 'slot2': 0, 'slot3': 0, 'slot4': 0}
+2026-04-09 11:30:37,999 __main__ INFO {'slot5': 0, 'slot6': 0, 'slot7': 0, 'slot8': 0, 'slot9': 0}
+2026-04-09 11:30:38,001 __main__ INFO {'slot5': 0, 'slot6': 0, 'slot7': 0, 'slot8': 0, 'slot9': 0}
+2026-04-09 11:30:48,991 __main__ INFO slot8
+2026-04-09 11:30:48,991 __main__ INFO 14344
+2026-04-09 11:30:48,992 __main__ INFO slot8
+2026-04-09 11:30:48,992 __main__ INFO 14344
+2026-04-09 11:30:48,992 __main__ INFO departed
+2026-04-09 11:32:42,775 __main__ INFO {'slot0': 0, 'slot1': 0, 'slot2': 0, 'slot3': 0, 'slot4': 0}
+2026-04-09 11:32:42,776 __main__ INFO {'slot5': 0, 'slot6': 0, 'slot7': 0, 'slot8': 0, 'slot9': 0}
+2026-04-09 11:32:42,776 __main__ INFO {'slot5': 0, 'slot6': 0, 'slot7': 0, 'slot8': 0, 'slot9': 0}
+2026-04-09 11:32:54,399 __main__ INFO slot7
+2026-04-09 11:32:54,399 __main__ INFO 43324
+2026-04-09 11:32:54,400 __main__ INFO slot7
+2026-04-09 11:32:54,400 __main__ INFO 43324
+2026-04-09 11:32:54,400 __main__ INFO departed
+2026-04-09 11:34:54,975 __main__ INFO {'slot0': 0, 'slot1': 0, 'slot2': 0, 'slot3': 0, 'slot4': 0}
+2026-04-09 11:34:54,976 __main__ INFO {'slot5': 0, 'slot6': 0, 'slot7': 0, 'slot8': 0, 'slot9': 0}
+2026-04-09 11:34:54,976 __main__ INFO {}
+2026-04-09 11:37:48,918 __main__ INFO {'slot0': 0, 'slot1': 0, 'slot2': 0, 'slot3': 0, 'slot4': 0}
+2026-04-09 11:37:48,919 __main__ INFO {'slot5': 0, 'slot6': 0, 'slot7': 0, 'slot8': 0, 'slot9': 0, 'slot10': 0, 'slot11': 0, 'slot12': 0, 'slot13': 0, 'slot14': 0}
+2026-04-09 11:37:48,920 __main__ INFO {'slot15': 0, 'slot16': 0, 'slot17': 0, 'slot18': 0, 'slot19': 0, 'slot20': 0, 'slot21': 0, 'slot22': 0, 'slot23': 0, 'slot24': 0, 'slot25': 0, 'slot26': 0, 'slot27': 0, 'slot28': 0, 'slot29': 0}
+2026-04-09 11:38:00,904 __main__ INFO slot23
+2026-04-09 11:38:00,905 __main__ INFO 313243
+2026-04-09 11:38:00,905 __main__ INFO slot23
+2026-04-09 11:38:00,905 __main__ INFO 313243
+2026-04-09 11:38:00,905 __main__ INFO departed
+2026-04-09 11:38:55,630 __main__ INFO {'slot0': 0, 'slot1': 0, 'slot2': 0, 'slot3': 0, 'slot4': 0, 'slot5': 0}
+2026-04-09 11:38:55,631 __main__ INFO {'slot6': 0, 'slot7': 0, 'slot8': 0, 'slot9': 0, 'slot10': 0, 'slot11': 0}
+2026-04-09 11:38:55,631 __main__ INFO {'slot12': 0, 'slot13': 0, 'slot14': 0, 'slot15': 0, 'slot16': 0, 'slot17': 0}
+2026-04-09 11:39:19,895 __main__ INFO slot12
+2026-04-09 11:39:49,278 __main__ INFO {'slot0': 0, 'slot1': 0, 'slot2': 0, 'slot3': 0, 'slot4': 0}
+2026-04-09 11:39:49,279 __main__ INFO {'slot5': 0, 'slot6': 0, 'slot7': 0, 'slot8': 0, 'slot9': 0}
+2026-04-09 11:39:49,279 __main__ INFO {'slot10': 0, 'slot11': 0, 'slot12': 0, 'slot13': 0, 'slot14': 0}
+2026-04-09 11:40:30,142 __main__ INFO {'slot0': 0, 'slot1': 0, 'slot2': 0, 'slot3': 0, 'slot4': 0}
+2026-04-09 11:40:30,143 __main__ INFO {'slot5': 0, 'slot6': 0, 'slot7': 0, 'slot8': 0, 'slot9': 0}
+2026-04-09 11:40:30,143 __main__ INFO {'slot10': 0, 'slot11': 0, 'slot12': 0, 'slot13': 0, 'slot14': 0}
+2026-04-09 11:45:55,973 __main__ INFO {'slot0': 0, 'slot1': 0, 'slot2': 0, 'slot3': 0, 'slot4': 0}
+2026-04-09 11:45:55,974 __main__ INFO {'slot5': 0, 'slot6': 0, 'slot7': 0, 'slot8': 0, 'slot9': 0}
+2026-04-09 11:45:55,975 __main__ INFO {'slot10': 0, 'slot11': 0, 'slot12': 0, 'slot13': 0, 'slot14': 0}
+2026-04-09 11:46:07,430 __main__ INFO slot11
+2026-04-09 11:46:07,430 __main__ INFO 32143
+2026-04-09 11:48:08,541 __main__ INFO {'slot0': 0, 'slot1': 0, 'slot2': 0, 'slot3': 0, 'slot4': 0}
+2026-04-09 11:48:08,542 __main__ INFO {'slot5': 0, 'slot6': 0, 'slot7': 0, 'slot8': 0, 'slot9': 0}
+2026-04-09 11:48:08,543 __main__ INFO {'slot10': 0, 'slot11': 0, 'slot12': 0, 'slot13': 0, 'slot14': 0}
+2026-04-09 11:50:26,693 __main__ INFO {'slot0': 0, 'slot1': 0, 'slot2': 0, 'slot3': 0, 'slot4': 0}
+2026-04-09 11:50:26,694 __main__ INFO {'slot5': 0, 'slot6': 0, 'slot7': 0, 'slot8': 0, 'slot9': 0}
+2026-04-09 11:50:26,695 __main__ INFO {'slot10': 0, 'slot11': 0, 'slot12': 0, 'slot13': 0, 'slot14': 0}
+2026-04-09 11:50:51,374 __main__ INFO slot9
+2026-04-09 11:50:51,374 __main__ INFO 3243254
+2026-04-09 11:50:51,374 __main__ INFO slot9
+2026-04-09 11:50:51,375 __main__ INFO 3243254
+2026-04-09 11:50:51,375 __main__ INFO departed
+2026-04-09 11:51:13,101 __main__ INFO {'slot0': 0, 'slot1': 0, 'slot2': 0, 'slot3': 0, 'slot4': 0}
+2026-04-09 11:51:13,102 __main__ INFO {'slot5': 0, 'slot6': 0, 'slot7': 0, 'slot8': 0, 'slot9': 0}
+2026-04-09 11:51:13,102 __main__ INFO {'slot10': 0, 'slot11': 0, 'slot12': 0, 'slot13': 0, 'slot14': 0}
+2026-04-09 11:51:32,846 __main__ INFO slot11
+2026-04-09 11:51:32,846 __main__ INFO 3543
+2026-04-09 11:54:38,421 __main__ INFO {'slot0': 0, 'slot1': 0, 'slot2': 0, 'slot3': 0, 'slot4': 0}
+2026-04-09 11:54:38,422 __main__ INFO {'slot5': 0, 'slot6': 0, 'slot7': 0, 'slot8': 0, 'slot9': 0}
+2026-04-09 11:54:38,422 __main__ INFO {'slot10': 0, 'slot11': 0, 'slot12': 0, 'slot13': 0, 'slot14': 0}
+2026-04-09 11:54:50,982 __main__ INFO slot14
+2026-04-09 11:54:50,983 __main__ INFO 324324
+2026-04-09 11:54:50,983 __main__ INFO {'slot10': 0, 'slot11': 0, 'slot12': 0, 'slot13': 0, 'slot14': 1}
+2026-04-09 12:07:38,628 __main__ WARNING Error occured, please enter only integers
+2026-04-09 12:07:42,108 __main__ WARNING Error occured, please enter only integers
+2026-04-09 12:07:45,468 __main__ WARNING Error occured, please enter only integers
