@@ -14,6 +14,9 @@
 
 6.OpenCV is used for automatic number plate tracking . ctrl+s to save image and ctrl+q to quash the pop up camera window.
 
+7.While copying the codes , download haarcascade.xml file and provide a source path as mentioned in my code.
+Just replace my source path with yours in that specific region of code.
+
 
 
 *THEME*
