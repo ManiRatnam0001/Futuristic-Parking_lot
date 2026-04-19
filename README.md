@@ -10,7 +10,7 @@
 
 4.One is allowed to copy and modify codes accordingly in their own console.
 
-5.Logger is used in such a way that it insersts the dumpings into a single log file.
+5.Logger is used in such a way that it inserts the dumpings into a single log file.
 
 6.OpenCV is used for automatic number plate tracking . press"s" to save image and press"q" to quash the pop up camera window.
 
